@@ -1,1 +1,1 @@
-worker: python dino
+worker: python botik
